@@ -4913,7 +4913,7 @@ a:hover, a:active {
 }
 @media (min-width: 1200px) {
   .hero-block .hero-title {
-    font-size: 106px;
+    font-size: 72px;
   }
 }
 @media (min-width: 1400px) {
@@ -4939,7 +4939,7 @@ a:hover, a:active {
 }
 @media (min-width: 992px) {
   .hero-block .hero-desc {
-    font-size: 20px;
+    font-size: 36px;
     margin-bottom: 10px;
   }
 }
